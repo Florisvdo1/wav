@@ -24,7 +24,7 @@ choco install voicemeeter-banana -y
 
 # Download the most beautiful audiophile-grade music player from GitHub
 cd "$HOME/Binaural_Audio/Player"
-git clone https://github.com/xfangfang/MusicPlayer 
+git clone https://github.com/Florisvdo1/wav 
 cd MusicPlayer
 powershell -Command "Start-Process -NoNewWindow -FilePath 'install.bat'"
 
